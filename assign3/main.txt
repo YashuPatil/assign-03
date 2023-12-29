@@ -1,0 +1,6 @@
+This is the main.txt file created to create a default master branch.
+
+Please note : 
+
+without before creating a default-master branch we cannot create any branches directly.
+
